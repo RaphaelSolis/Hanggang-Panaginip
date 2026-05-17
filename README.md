@@ -20,7 +20,7 @@ Features:
 
 
 
-Requirements
+Requirements:
 
 Before running the project, install the following:
 
