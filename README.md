@@ -7,10 +7,15 @@ This program combines graphics, dialogue, music, and scene transitions to tell a
 Features:
 
 • Multiple animated scenes using Python Turtle
+
 • Custom character/environment drawings
+
 • Dialogue typing effects
+
 • Audio integration using MPV
+
 • Emotional story progression with cinematic transitions
+
 • Original narrative and visual design
 
 
